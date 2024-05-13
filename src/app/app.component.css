@@ -1,0 +1,17 @@
+.video-container {
+    display: flex;
+    justify-content: center;
+    margin: 0 5%; /* 10% margin left and right */
+  }
+  
+  .video-wrapper {
+    width: 50%; 
+    margin: 0 2.5%;
+    border: 5px solid #ccc; 
+    box-sizing: border-box; 
+  }
+  
+  .video-wrapper video {
+    width: 100%;
+  }
+  
